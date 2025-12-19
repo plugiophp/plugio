@@ -1,0 +1,8 @@
+{
+    "name": "plugio/plugio",
+    "description": "Placeholder for the Plugio project.",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2"
+    }
+}
