@@ -1,5 +1,5 @@
 {
-    "name": "plugio/plugio",
+    "name": "plugiophp/plugio",
     "description": "Placeholder for the Plugio project.",
     "license": "MIT",
     "require": {
